@@ -9,4 +9,4 @@ During this project, we will simulate all of them in Matlab. We performed a time
 
 ### Members : Lucie MICHELET - Hugo LANCERY
 
-<p> In this repository you will find two files "Projet_1_Rect" and "Projet_2_RCC" that are the same matlab files but applied to two different signal, the RectPulse and the Root-Raised-Cosine. You can also find our report as a pdf, and the subject of this class.</p>
+<p> In this repository you will find two files "Projet_1_Rect" and "Projet_2_RCC" that are the same matlab files but applied to two different signals, the RectPulse and the Root-Raised-Cosine. You can also find our report as a pdf, and the subject of this class.</p>
